@@ -1,0 +1,37 @@
+.section {
+    padding:0px 20px 0px 20px;
+}
+.sec1{
+    background-color:black;
+    color: white;
+    border-radius: 12px;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+}
+.btn-custom-width {
+    width: 200px; /* Set your desired width */
+}
+.album-card{
+    border:12px;
+}
+.artist-card{
+    border: 50%;
+}
+.footer {
+    color:rgb(240, 248, 255);
+    background-color: #1d1a1a;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+.f-img{
+    width: 44px; /* Adjust image size */
+            margin: 0 15px;
+    height:2em;
+}
+
